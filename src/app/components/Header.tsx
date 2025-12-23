@@ -37,7 +37,7 @@ export function Header({
               alt="Logo" 
               className="h-10 w-10"
             />
-            <span className="text-xl font-semibold text-gray-800">mjxHạ</span>
+            <span className="text-xl font-semibold text-gray-800">VivuCNWEB</span>
           </div>
 
           {/* Navigation */}

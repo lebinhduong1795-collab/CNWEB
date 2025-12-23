@@ -99,7 +99,7 @@ export function BlogPage({ onPostClick }: BlogPageProps) {
           <div className="max-w-3xl">
             <h1 className="text-4xl md:text-5xl mb-4">Blog Du Lịch</h1>
             <p className="text-xl text-white/90">
-              Khám phá những câu chuyện, mẹo hay và hướng dẫn chi tiết về du lịch Vịnh Hạ Long
+              Khám phá những câu chuyện, mẹo hay và hướng dẫn chi tiết về du lịch Vịnh biển Việt Nam cùng VivuCNWEB.
             </p>
           </div>
         </div>

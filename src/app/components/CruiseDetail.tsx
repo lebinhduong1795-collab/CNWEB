@@ -40,8 +40,8 @@ export function CruiseDetail({ cruiseId, onClose, onAddToCart }: CruiseDetailPro
     price: '4,150,000',
     type: 'Lux Cruises',
     location: 'Lộ 28 Công Quốc Tế Bãi Cháy',
-    info: {
-      launched: '2019',
+    info: { 
+      launched: '2025',
       cabins: '20',
       hull: 'Kim loại',
       route: 'Vịnh Lan Hạ - Bãi Lãm Bà Trại Đào - Hòng Sắng Tối',

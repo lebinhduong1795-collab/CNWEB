@@ -17,7 +17,7 @@ export function TermsPage({ onClose }: TermsPageProps) {
               Vui lòng đọc kỹ các điều khoản trước khi sử dụng dịch vụ
             </p>
             <p className="text-sm text-white/80 mt-4">
-              Cập nhật lần cuối: 22/12/2024
+              Cập nhật lần cuối: 01/01/2025
             </p>
           </div>
         </div>
@@ -65,7 +65,7 @@ export function TermsPage({ onClose }: TermsPageProps) {
             </div>
             <div className="space-y-4 text-gray-700">
               <p>
-                Bằng việc truy cập và sử dụng website <strong>halongcruises.vn</strong>, bạn đồng ý tuân thủ các điều khoản và điều kiện được nêu dưới đây.
+                Bằng việc truy cập và sử dụng website <strong>VivuCNWEB</strong>, bạn đồng ý tuân thủ các điều khoản và điều kiện được nêu dưới đây.
               </p>
               <ul className="list-disc pl-6 space-y-2">
                 <li>Website cung cấp dịch vụ đặt chỗ trực tuyến cho các tour du thuyền tại Vịnh Hạ Long và vùng lân cận.</li>
@@ -391,7 +391,7 @@ export function TermsPage({ onClose }: TermsPageProps) {
               </div>
               <div>
                 <strong>Email:</strong><br />
-                support@halongcruises.vn
+                support@vivucnweb.com
               </div>
               <div>
                 <strong>Giờ làm việc:</strong><br />

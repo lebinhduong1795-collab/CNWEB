@@ -31,10 +31,10 @@ export function Footer({ onNavigate, onDestinationFilter }: FooterProps) {
                 alt="Logo" 
                 className="h-10 w-10"
               />
-              <span className="text-xl font-semibold">mjxHạ</span>
+              <span className="text-xl font-semibold">VivuCNWEB</span>
             </div>
             <p className="text-gray-400 text-sm">
-              Công ty Thiết kế Lữ hành Sóng Việt Mjxdu
+              Công ty Thiết kế Lữ hành Du lịch Vivu
             </p>
           </div>
 
@@ -141,7 +141,7 @@ export function Footer({ onNavigate, onDestinationFilter }: FooterProps) {
         </div>
 
         <div className="border-t border-gray-700 pt-8 text-center text-gray-400 text-sm">
-          <p>© 2024 mjxHạ. Tất cả quyền được bảo lưu.</p>
+          <p>© 2025 VivuCNWEB. Tất cả quyền được bảo lưu.</p>
         </div>
       </div>
     </footer>

@@ -32,13 +32,13 @@ export function ContactPage() {
     {
       icon: Mail,
       title: 'Email',
-      content: 'info@mjxha.com',
+      content: 'info@vivucnweb.com',
       description: 'Phản hồi trong 24h'
     },
     {
       icon: MapPin,
       title: 'Địa chỉ',
-      content: 'Lộ 28 Công Quốc Tế, Bãi Cháy, Hạ Long',
+      content: 'Nghiêm Xuân Yêm, Đại học Thăng Long',
       description: 'Quảng Ninh, Việt Nam'
     },
     {
@@ -54,19 +54,19 @@ export function ContactPage() {
       name: 'Văn phòng Hà Nội',
       address: '123 Đường ABC, Hoàn Kiếm, Hà Nội',
       phone: '024 1234 5678',
-      email: 'hanoi@mjxha.com'
+      email: 'hanoi@vivucnweb.com'
     },
     {
       name: 'Văn phòng Hải Phòng',
       address: '456 Đường XYZ, Lê Chân, Hải Phòng',
       phone: '0225 8765 4321',
-      email: 'haiphong@mjxha.com'
+      email: 'haiphong@vivucnweb.com'
     },
     {
       name: 'Văn phòng TP.HCM',
       address: '789 Đường DEF, Quận 1, TP.HCM',
       phone: '028 9876 5432',
-      email: 'hcm@mjxha.com'
+      email: 'hcm@vivucnweb.com'
     }
   ];
 
@@ -206,11 +206,11 @@ export function ContactPage() {
             </form>
           </div>
 
-          {/* Map */}
+          {/* Map */} 
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
             <div className="h-full min-h-[500px] bg-gray-200 relative">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d119647.9315693197!2d106.96420667159142!3d20.95396064465238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x314a567bd936ab89%3A0xe380551efc22ced0!2sHa%20Long%2C%20Quang%20Ninh%2C%20Vietnam!5e0!3m2!1sen!2s!4v1734892024567!5m2!1sen!2s"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7450.83595752263!2d105.8060662935791!3d20.975875900000013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135acef8ad5350f%3A0x89435a3528118ff5!2zVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyBUaMSDbmcgTG9uZw!5e0!3m2!1svi!2s!4v1766466443219!5m2!1svi!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
@@ -268,19 +268,19 @@ export function ContactPage() {
           <p className="text-gray-600 mb-6">Theo dõi chúng tôi trên các mạng xã hội để cập nhật tin tức mới nhất</p>
           <div className="flex items-center justify-center gap-4">
             <a 
-              href="#" 
+              href="https://www.facebook.com/binhhduongg179" 
               className="w-12 h-12 bg-blue-600 text-white rounded-full flex items-center justify-center hover:bg-blue-700 transition-colors"
             >
               <Facebook className="w-6 h-6" />
             </a>
             <a 
-              href="#" 
+              href="https://www.instagram.com/b_duowng/" 
               className="w-12 h-12 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-full flex items-center justify-center hover:from-purple-600 hover:to-pink-600 transition-colors"
             >
               <Instagram className="w-6 h-6" />
             </a>
             <a 
-              href="#" 
+              href="https://www.youtube.com/@phdphuonghuuduong" 
               className="w-12 h-12 bg-red-600 text-white rounded-full flex items-center justify-center hover:bg-red-700 transition-colors"
             >
               <Youtube className="w-6 h-6" />
